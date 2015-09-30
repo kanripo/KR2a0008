@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬異同
-#+DATE: 2015-09-23 09:41:31
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:19:42.584822
+#+PROPERTY: ID KR2a0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR2a0008_WYG_003-1a>¶
 欽定四庫全書¶
 　班馬異同卷三¶
@@ -146,4 +148,3 @@
 　¶
 　¶
 　班馬異同卷三¶
-

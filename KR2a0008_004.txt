@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬異同
-#+DATE: 2015-09-23 09:41:31
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:19:42.601160
+#+PROPERTY: ID KR2a0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0008_WYG_004-1a>¶
 欽定四庫全書¶
 　班馬異同卷四¶
@@ -128,4 +130,3 @@
 施後世為一代之宗臣慶流苖裔盛矣哉¶
 　¶
 　班馬異同卷四¶
-

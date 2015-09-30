@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬異同
-#+DATE: 2015-09-23 09:41:31
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:19:42.759936
+#+PROPERTY: ID KR2a0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR2a0008_WYG_014-1a>¶
 欽定四庫全書¶
 　班馬異同卷十四¶
@@ -74,4 +76,3 @@
 之未嘗不垂涕此有傷心者然可謂篤厚君子矣(漢書/賛在)¶
 (灌嬰/傳後)¶
 　班馬異同卷十四¶
-
